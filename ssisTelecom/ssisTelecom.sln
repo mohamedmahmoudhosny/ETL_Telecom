@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ssisTelecom", "ssisTelecom\ssisTelecom.dtproj", "{39CC8BA8-445A-4193-8C9D-DA68C73995B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CC8BA8-445A-4193-8C9D-DA68C73995B2}.Development|Default.ActiveCfg = Development
+		{39CC8BA8-445A-4193-8C9D-DA68C73995B2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261C9E8D-A3F8-4A25-8090-526077F9BC4E}
+	EndGlobalSection
+EndGlobal
